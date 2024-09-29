@@ -1,4 +1,24 @@
-# hello-world
-If you read this, you lost The Game
-
-Hello! My name is Ed. I just Lost the game. Incredible. yuh
+b8	49 66 20 79
+a3	0c 10 00 06
+b8	6F 75 20 72
+a3	0c 10 00 06
+b8	65 61 64 20
+a3	0c 10 00 06
+b8	74 68 69 73
+a3	0c 10 00 06
+b8	2C 20 79 6F
+a3	0c 10 00 06
+b8	75 20 6C 6F
+a3	0c 10 00 06
+b8	73 74 20 54
+a3	0c 10 00 06
+b8	68 65 20 47
+a3	0c 10 00 06
+b8	61 6D 65 00
+b9	00 10 00 06
+ba	10 00 00 00
+bb	01 00 00 00
+b8	04 00 00 00
+cd	80
+b8	01 00 00 00
+cd	80
