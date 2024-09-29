@@ -1,4 +1,4 @@
-C version
+Cpp (C++) version
 
 \<insert image here\>
 
