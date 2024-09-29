@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "vscode-html-languageservice": "^5.3.1"
+  }
+}
