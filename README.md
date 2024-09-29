@@ -1,2 +1,2 @@
-# hello-world
-If you read this, you lost The Game
+# hello-gyze
+If you read this, you're gyze
