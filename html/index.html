@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+  <title>BMC'S GAME</title>
+</head>
+<style>
+  .bold {
+    font-weight: bold;
+  }
+
+  .hide {
+    display: none;
+  }
+  
+  img {
+    height: 2rem;
+  }
+
+</style>
+<body>
+  <p>Please enter your name: </p>
+  <input id="name-input">
+  <button onClick="doStuff()" type="">Press Me!</button>
+  <div id="text-stuff" class="hide">
+    <p>If you read this, you lost the Game.</p>
+    <p>Hello! My name is <span id="name" class="bold">Ed</span>. I just lost the game. Incredible. yuh</p>
+    <img src="./someImage.jpg" alt="bmc">
+  </div>
+  <script>
+    function doStuff() {
+      let name_input = document.getElementById("name-input");
+      let name = document.getElementById("name");
+      let text_stuff = document.getElementById("text-stuff");
+      name.textContent = name_input.value;
+
+      text_stuff.classList.remove("hide");
+    }
+  </script>
+</body>
+

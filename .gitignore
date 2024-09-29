@@ -3,4 +3,6 @@ __pycache__/
 build/
 .env/
 *.lock
+package-lock.json
 .ccls-cache/
+node_modules/
