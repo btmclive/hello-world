@@ -5,3 +5,5 @@ C version
 ![Preview](preview.jpg)
 
 run with: `.\a.exe`
+
+compile with: `gcc main.c`

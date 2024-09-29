@@ -4,4 +4,6 @@ Go version
 
 ![Preview](preview.jpg)
 
-run with: `go run main.go`
+run with: `.\main.exe`
+
+compile with: `go build main.go`

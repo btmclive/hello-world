@@ -4,4 +4,4 @@ Rust version
 
 ![Preview](preview.jpg)
 
-run with: `cargo run`
+run with: `.\rust.exe`
