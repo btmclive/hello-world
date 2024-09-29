@@ -1,7 +1,7 @@
-Rust version
+Python version
 
 \<insert image here\>
 
 ![Preview](preview.jpg)
 
-run with: `cargo run`
+run with: `python main.py`
